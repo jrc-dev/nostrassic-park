@@ -1,7 +1,12 @@
 # Nostrassic Park Sub Protocol
-Unlocking Decentralized Ratings, Reviews and Movies list with a sub protocol powered by the [**Nostr Protocol**](https://github.com/nostr-protocol/nostr). 🍿🦖
+Unlocking Decentralized Ratings, Reviews and Movies client applications with a sub protocol powered by the [**Nostr Protocol**](https://github.com/nostr-protocol/nostr). 🍿🦖
 
 Operates on the Nostr Protocol ensuring that no centralized company controls the content, reviews and ratings.
+
+## Clients
+
+[**Nostr Potatoes**](https://github.com/jrc-dev/nostr-potatoes)🎬🍿🥔
+
 
 ## Key Features
 
